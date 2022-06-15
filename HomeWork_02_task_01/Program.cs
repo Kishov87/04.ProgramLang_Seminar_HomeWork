@@ -9,7 +9,6 @@ using static System.Console;
 Clear();
 Write("Введите трехзначное число: ");
 int N = Convert.ToInt32(ReadLine());
-int answer = 0;
 
 if ((N < 100) || (N > 999))
 {
