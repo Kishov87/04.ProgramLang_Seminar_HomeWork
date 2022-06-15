@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pavel Kishov\\OneDrive\\Рабочий стол\\HomeWork\\HomeWork_01_task_04\\HomeWork_01_task_04.csproj",
+      "projectUniqueName": "C:\\Users\\Pavel Kishov\\YandexDisk\\Education\\GeegBrains\\4. Знакомство с языками программирования\\Семинары\\HomeWork\\HomeWork_01_task_04\\HomeWork_01_task_04.csproj",
       "projectName": "HomeWork_01_task_04",
-      "projectPath": "C:\\Users\\Pavel Kishov\\OneDrive\\Рабочий стол\\HomeWork\\HomeWork_01_task_04\\HomeWork_01_task_04.csproj",
+      "projectPath": "C:\\Users\\Pavel Kishov\\YandexDisk\\Education\\GeegBrains\\4. Знакомство с языками программирования\\Семинары\\HomeWork\\HomeWork_01_task_04\\HomeWork_01_task_04.csproj",
       "packagesPath": "C:\\Users\\Pavel Kishov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pavel Kishov\\OneDrive\\Рабочий стол\\HomeWork\\HomeWork_01_task_04\\obj\\",
+      "outputPath": "C:\\Users\\Pavel Kishov\\YandexDisk\\Education\\GeegBrains\\4. Знакомство с языками программирования\\Семинары\\HomeWork\\HomeWork_01_task_04\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pavel Kishov\\AppData\\Roaming\\NuGet\\NuGet.Config"
