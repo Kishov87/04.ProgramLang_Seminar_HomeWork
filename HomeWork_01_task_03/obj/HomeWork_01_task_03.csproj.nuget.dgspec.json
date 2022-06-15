@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pavel Kishov\\OneDrive\\Рабочий стол\\HomeWork\\HomeWork_01_task_03\\HomeWork_01_task_03.csproj": {}
+    "C:\\Users\\Pavel Kishov\\YandexDisk\\Education\\GeegBrains\\4. Знакомство с языками программирования\\Семинары\\HomeWork\\HomeWork_01_task_03\\HomeWork_01_task_03.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pavel Kishov\\OneDrive\\Рабочий стол\\HomeWork\\HomeWork_01_task_03\\HomeWork_01_task_03.csproj": {
+    "C:\\Users\\Pavel Kishov\\YandexDisk\\Education\\GeegBrains\\4. Знакомство с языками программирования\\Семинары\\HomeWork\\HomeWork_01_task_03\\HomeWork_01_task_03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pavel Kishov\\OneDrive\\Рабочий стол\\HomeWork\\HomeWork_01_task_03\\HomeWork_01_task_03.csproj",
+        "projectUniqueName": "C:\\Users\\Pavel Kishov\\YandexDisk\\Education\\GeegBrains\\4. Знакомство с языками программирования\\Семинары\\HomeWork\\HomeWork_01_task_03\\HomeWork_01_task_03.csproj",
         "projectName": "HomeWork_01_task_03",
-        "projectPath": "C:\\Users\\Pavel Kishov\\OneDrive\\Рабочий стол\\HomeWork\\HomeWork_01_task_03\\HomeWork_01_task_03.csproj",
+        "projectPath": "C:\\Users\\Pavel Kishov\\YandexDisk\\Education\\GeegBrains\\4. Знакомство с языками программирования\\Семинары\\HomeWork\\HomeWork_01_task_03\\HomeWork_01_task_03.csproj",
         "packagesPath": "C:\\Users\\Pavel Kishov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pavel Kishov\\OneDrive\\Рабочий стол\\HomeWork\\HomeWork_01_task_03\\obj\\",
+        "outputPath": "C:\\Users\\Pavel Kishov\\YandexDisk\\Education\\GeegBrains\\4. Знакомство с языками программирования\\Семинары\\HomeWork\\HomeWork_01_task_03\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pavel Kishov\\AppData\\Roaming\\NuGet\\NuGet.Config"
