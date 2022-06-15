@@ -12,5 +12,9 @@ int number1 = Convert.ToInt32(ReadLine());
 Write("Введите второе число: ");
 int number2 = Convert.ToInt32(ReadLine());
 
-if (number1<number2) WriteLine($"{number2}{" > "}{number1}");
-else WriteLine($"{number1}{" > "}{number2}");
+if(number1==number2) WriteLine($"{number2}{" = "}{number1}");
+else 
+{
+    if(number1<number2) WriteLine($"{number2}{" > "}{number1}");
+    else WriteLine($"{number1}{" > "}{number2}");
+}
