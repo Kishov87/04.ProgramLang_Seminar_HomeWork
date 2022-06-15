@@ -13,16 +13,11 @@ Write("Введите второе число: ");
 int number2 = Convert.ToInt32(ReadLine());
 Write("Введите третье число: ");
 int number3 = Convert.ToInt32(ReadLine());
+int max = number1;
 
-string answer= number1>number2 & number1>number2
-?$"{number1}{" > "{number2}{" and "} {number3}}
-:number2>number1 & number2>number3
-$"{number2}{" > "{number1}{" and "} {number3}}
-:number3>number1 & number3>number2
-$"{number3}{" > "{number1}{" and "} {number2}};
-
-WriteLine(answer);
-
-
-//if (number1<number2) WriteLine($"{number2}{" > "}{number1}");
-//else WriteLine($"{number1}{" > "}{number2}");
+if (number1>number2) WriteLine($"Max первое число = {number1}");
+else
+{
+    if (number2>number3) WriteLine($"Max второе число = {number2}");
+    else WriteLine($"Max третье число = {number3}");
+}
