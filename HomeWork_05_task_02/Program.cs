@@ -8,7 +8,7 @@ using static System.Console;
 
 Clear();
 
-int[] array = GetRandomArray(6,-100,100);
+int[] array = GetRandomArray(6,-6,100);
 WriteLine($"[{String.Join(", ", array)}]");
 WriteLine($"Сумма элементов стоящих на нечётных позициях массива = {GetSumOddIndex(array)}");
 
